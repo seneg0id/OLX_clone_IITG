@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+html,body{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    
+}
+.image
+{
+    display: flex;
+    justify-content: center;
+    background-color: #233c50;
+}
+.logo{
+    width: 52%;
+    display: flex;
+    align-items: center;
+    margin-left: 20%;
+}
+@media only screen and (max-width: 550px){
+    .image{
+        position: absolute;
+        top: 50%;
+        transform: translate(0, -50%);
+        background-color: #233c50;
+    }
+    .logo{
+        width: 120%;
+        margin: 0;
+        display: flex;
+        align-items: center;
+    }
+}
+@media only screen and (max-width: 1000px){
+    .image{
+        width: auto;
+        background-color: #233c50;
+        margin: auto;
+    }
+    .logo{
+        margin: 0;
+        width: 75%;
+    }
+}

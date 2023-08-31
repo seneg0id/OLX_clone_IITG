@@ -1,0 +1,61 @@
+.prof{
+  width: 100%;
+  background-color: #233c50;
+}
+.prio{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+    border-radius: 50px;
+    position: relative;
+    top: 20px;
+}
+.color{
+  background-color: white;
+  width: 100%;
+  height: 100px;
+  text-align: center;
+}
+.profiledetails{
+  text-align: center;
+  padding-top: 8%;
+  font-family:'Montserrat', sans-serif;
+}
+.proname{
+  font-weight: 700;
+  font-size: 35px;
+}
+.myproducts{
+  text-decoration: none;
+  cursor: pointer;
+  background-color: #576F72;
+  padding: 20px 0px;
+  border-style: groove;
+  width: 30%;
+  font-size:24px;
+  border-color: none;
+  border-width:1px;
+  border-radius: 30px;
+  text-align: center;
+  display:block;
+  margin-top: 2%;
+  margin-left:auto;
+  color: white;
+  margin-right: auto;
+}
+.homeicon{
+  color: teal;
+  position: absolute;
+  left: 2%;
+  top: 8%;
+}
+.color span{
+  font-size: 40px;
+  font-family: 'Sacramento', cursive;
+  text-align: center;
+}
+.link1{
+  text-decoration: none;
+  color: inherit;
+}

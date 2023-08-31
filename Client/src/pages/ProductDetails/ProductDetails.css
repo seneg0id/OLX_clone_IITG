@@ -1,0 +1,187 @@
+ .productdetails{
+  background-color: #233c50;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 500;
+}
+/*
+@media only screen and (min-width: 992px) {
+  .top #search {
+    background-color: #d9d9d9;
+    border: 2px solid #d9d9d9;
+    margin: 3% 3%;
+    width: 80%;
+    font-size: 15px;
+    font-weight: 800;
+    line-height: 30px;
+    padding: 10px 3px;
+    border-radius: 30px;
+  }
+
+  .imgStyle {
+    width: 27%;
+    height: 225px;
+    margin: 3%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .productName {
+    text-align: center;
+    background-color: #d9d9d9;
+    width: 50%;
+    padding: 10px 3px;
+    border-radius: 30px;
+    margin-top: 3%;
+    margin-left: auto;
+    margin-right: auto;
+    font-weight: 800;
+  }
+
+  .productDescription {
+    text-align: center;
+    color: #d9d9d9;
+    width: 50%;
+    margin: 3% 25%;
+  }
+  .purchaseDate {
+    text-align: center;
+    background-color: #d9d9d9;
+    width: 50%;
+    padding: 10px 3px;
+    border-radius: 30px;
+    margin-top: 3%;
+    margin-left: auto;
+    margin-right: auto;
+    font-weight: 800;
+  }
+  .sellingPrice {
+    text-align: center;
+    background-color: #d9d9d9;
+    width: 50%;
+    padding: 10px 3px;
+    border-radius: 30px;
+    margin-top: 3%;
+    margin-left: auto;
+    margin-right: auto;
+    font-weight: 800;
+  }
+  .contactSeller {
+    text-align: center;
+    background-color: #d9d9d9;
+    width: 50%;
+    padding: 10px 3px;
+    border-radius: 30px;
+    margin-top: 3%;
+    margin-left: auto;
+    margin-right: auto;
+    font-weight: 800;
+  }
+  #button4,
+  #button5{
+    text-align: center;
+    margin-top: 20%;
+    width: 50%;
+    cursor: pointer;
+    height: 50px;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+  }
+  .productdetails{
+    height: fit-content;
+  }
+}
+
+
+@media only screen and (max-width: 600px) {
+    .top #search {
+      background-color: #d9d9d9;
+      border: 2px solid #d9d9d9;
+      margin: 3% 3%;
+      width: 94%;
+      font-size: 16px;
+      font-weight: 800;
+      line-height: 30px;
+      padding: 10px 3px;
+      border-radius: 30px;
+    }
+  
+    .imgStyle {
+      height: 30%;
+      margin-top: 10%;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 50%;
+    }
+  
+    .productName {
+      text-align: center;
+      background-color: #d9d9d9;
+      width: 60%;
+      padding: 10px 3px;
+      border-radius: 30px;
+      margin-top: 10%;
+      margin-left: auto;
+      margin-right: auto;
+      font-weight: 800;
+    }
+  
+    .productDescription {
+      text-align: center;
+      color: #d9d9d9;
+      width: 60%;
+      margin: 6% 20%;
+    }
+    .purchaseDate {
+      text-align: center;
+      background-color: #d9d9d9;
+      width: 60%;
+      padding: 10px 3px;
+      border-radius: 30px;
+      margin-top: 10%;
+      margin-left: auto;
+      margin-right: auto;
+      font-weight: 800;
+    }
+    .sellingPrice {
+      text-align: center;
+      background-color: #d9d9d9;
+      width: 60%;
+      padding: 10px 3px;
+      border-radius: 30px;
+      margin-top: 10%;
+      margin-left: auto;
+      margin-right: auto;
+      font-weight: 800;
+    }
+    .contactSeller {
+      text-align: center;
+      background-color: #d9d9d9;
+      width: 60%;
+      padding: 10px 3px;
+      border-radius: 30px;
+      margin-top: 10%;
+      margin-bottom: 10%;
+      margin-left: auto;
+      margin-right: auto;
+      font-weight: 800;
+    }
+    #button4,
+    #button5 {
+      display: inline-block;
+      width: 50%;
+      margin-top: 15%;
+      height: 50px;
+      padding: 10px 3px 0px 3px;
+      text-align: center;
+      cursor: pointer;
+      border-top-left-radius: 30px;
+      border-top-right-radius: 30px;
+    }
+    .footer{
+      margin-top: 22%;
+    }
+  }
+  
+   */

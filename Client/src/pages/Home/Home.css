@@ -1,0 +1,62 @@
+.MAIN{
+    background-image: url('../pictures/background.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+}
+
+@media only screen and (max-width: 600px){
+    .MAIN{
+        background-image: url('../pictures/background_pro2.jpg');
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+    }
+    .Logo{
+        width: 20%;
+        margin-left: 1%;
+        margin-top: 2%;
+    }
+    .buttonb{ 
+        margin-top: 30%;
+        margin-left: 30%;
+        padding-top: 20%;
+        padding-bottom: 82%;
+    }
+} 
+@media only screen and (min-width:600px) and (max-width: 991px){
+    .MAIN{
+        background-image: url('../pictures/background_pro2.jpg');
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+        background-color: lightcyan;
+    }
+    .Logo{
+        width: 10%;
+    }
+    .buttonb{
+        margin-top: 30%;
+        margin-left: 37%;
+        padding-top: 30%;
+        padding-bottom: 62%;
+    }
+}
+@media only screen and (min-width: 992px)
+{
+    
+    .Logo{
+        display: flex;
+        margin-left: 1%;
+        margin-top: 2%;
+        margin-bottom: 5%;
+        width: 8%;
+        height: 10%;
+    }
+    
+    .buttonb{
+        padding-bottom: 8%;
+        margin-left: 38%;
+        margin-top: 8%;
+    } 
+}

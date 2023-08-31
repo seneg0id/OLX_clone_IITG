@@ -1,0 +1,159 @@
+._1{
+  text-align: center;
+  margin-left: 45%;
+  margin-top: 51%;
+  color: aliceblue;
+  font-size: 20px;
+}
+._2{
+  text-align: center;
+  margin-left: 43%;
+  margin-top: 51%;
+  color: aliceblue;
+  font-size: 20px;
+}
+.top #search {
+    background-color: #d9d9d9;
+    border: 2px solid #d9d9d9;
+    margin: 3% 3%;
+    width: 65%;
+    font-size: 15px;
+    font-weight: 800;
+    line-height: 30px;
+    padding: 10px 3px;
+    border-radius: 30px;
+  }
+.imgStyle{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 32%;
+}
+.productName{
+    text-align: center;
+    background-color: #d9d9d9;
+    width: 50%;
+    padding: 10px 3px;
+
+    border-radius: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    font-weight: 800;
+}
+.productDescription {
+    text-align: center;
+    background-color: #d9d9d9;
+    border-radius: 30px;
+    padding: 10px 3px;
+    width: 50%;
+    margin: 3% 25%;
+    margin-bottom: 0;
+    margin-top: 0;
+    font-weight: 800;
+  }
+  .purchaseDate {
+    text-align: center;
+    background-color: #d9d9d9;
+    width: 50%;
+    padding: 10px 3px;
+    border-radius: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    font-weight: 800;
+  }
+  .sellingPrice {
+    text-align: center;
+    background-color: #d9d9d9;
+    width: 50%;
+    padding: 10px 3px;
+    border-radius: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    font-weight: 800;
+  }
+  .contactSeller {
+    text-align: center;
+    background-color: #d9d9d9;
+    width: 50%;
+    padding: 10px 3px;
+    border-radius: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    font-weight: 800;
+  }
+  #button4,
+  #button5{
+    text-align: center;
+    margin-top: 5%;
+    width: 50%;
+    cursor: pointer;
+    height: 50px;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+  }
+  .productdetails{
+    height: fit-content;
+  }
+  .singleproductedit{
+    font-size: 34px;
+    text-align: center;
+  }
+  .singleposticon{
+    margin-left: 40px;
+    margin-top: 25px;
+    cursor: pointer;
+  }
+  .singleposticon:first-child{
+    color: lightcyan;
+  }
+  .singleposticon:last-child{
+    color: red;
+  }
+  .productName1{
+    text-align: center;
+    background-color: #d9d9d9;
+    width: 50%;
+    padding: 10px 3px;
+    border-radius: 30px;
+    margin-left: auto;
+    display: block;
+    margin-right: auto;
+    font-weight: 800;
+  }
+  .updatebutton{
+    text-align: center;
+    margin-top: 5%;
+    margin-left: 15px;
+  }
+  .productupdate{
+    border: none;
+    background-color: #576F72;
+    padding: 5px;
+    font-size: 20px;
+    color: white;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  .nego{
+    text-align: center;
+    background-color: #d9d9d9;
+    width: 50%;
+    padding: 10px 3px;
+    border-radius: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    font-weight: 800;
+  }
+  .makedeal{
+    text-align: center;
+    padding: 10px;
+    background-color: teal;
+    width: 100px;
+    border-radius: 30px;
+    margin-top: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+    cursor: pointer;
+  }

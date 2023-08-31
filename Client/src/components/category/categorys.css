@@ -1,0 +1,38 @@
+.singlecat {
+    flex: 1;
+    margin: 3px;
+    background-color: #f5fbfd;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+  
+  }
+  .singlecat:hover{
+    transform: scale(1.1);
+  }
+  .singlecat:hover .INFO{
+    opacity: 1;
+  }
+  .catimg {
+    height: 80%;
+    width: 350px;
+    background-color: teal;
+  }
+  .INFO{
+  position: absolute;
+  top: 0;
+  left: 0;
+  opacity: 0;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(0,0,0,0.5);
+  }
+  .CATE{
+   color: white;
+   font-size: 34px;
+   font-weight: 500;
+  }
